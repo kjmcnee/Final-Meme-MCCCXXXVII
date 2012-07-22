@@ -1,0 +1,18 @@
+This is a Final Fantasy style game which I created for a high school CS class.
+
+Internet memes have infected your computer and it's up to you to destroy them!
+
+The game has many features typical of a FF game such as:
+-Battle system
+-Random battles (with common enemies, which are Internet trolls in this game)
+-Boss Battles
+-Levelling system
+-Items
+-Stores and currency system
+
+The game also has a save feature. The save file is encrypted using a simple method of XORing each character with a constant key and using the cipher-block chaining (CBC) mode of operation.
+
+Notes:
+This game contains references to old Internet memes. You have been warned.
+The game has a poorly balanced difficulty, especially in the boss battles.
+There is a bug in the battle system (in the AttackEnemy subroutine) that I wasn't able to fix before the due date. I occurs fairly rarely, so I just made it so that whenever it throws an error, the program just continues to the next turn. It will just appear to be a missed attack to the player.

@@ -1,0 +1,8 @@
+frmTitle = 60, 90, 1259, 886, C, 0, 0, 0, 0, C
+frmMenu = 93, 199, 1110, 920, C, 0, 0, 0, 0, C
+frmField = 33, 45, 1189, 856, C, 0, 0, 0, 0, C
+ModuleEncryption = 34, 132, 1241, 809, C
+ModuleBattleSystem = 39, 99, 1219, 776, C
+frmStore = 26, 199, 1044, 876, C, 0, 0, 0, 0, C
+frmBattle = 92, 93, 1185, 856, C, 0, 0, 0, 0, C
+clsEnemy = 48, 73, 1126, 840, C
